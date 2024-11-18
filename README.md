@@ -12,6 +12,6 @@
 
    This repository contains the Python codes for codeforces problems I've solved. All contributions for improved solutions are welcomed and appreciated.
 
-4. ### [DBA](https://github.com/merehansheikh/DBA) (Last Updated: 10-Nov-24)
+4. ### [DBA](https://github.com/merehansheikh/DBA) (Last Updated: 19-Nov-24)
 
    This repository contains material for the course of Database Administration and Management for which I did a Teaching Assistantship during my 5th semester. My fellow TA was [Haris Ahmad](https://github.com/malikharisahmad).
