@@ -1,7 +1,7 @@
 # Profile Map
 
 ## Hello, fellow! Below is a list of useful links on my GitHub profile, just a click away! 
-1. ### [Data Science 2022-26](https://github.com/merehansheikh/Data-Science-22) (Last Updated: 03-Dec-24)
+1. ### [Data Science 2022-26](https://github.com/merehansheikh/Data-Science-22) (Last Updated: 08-Dec-24)
 
    My undergraduate repository contains all my degree books, notes, assignments, and codes.
 2. ### [Useful Books](https://github.com/merehansheikh/Data-Science-22/blob/main/README.md) (Last Updated: 20-Nov-24)
@@ -12,6 +12,6 @@
 
    This repository contains the Python codes for codeforces problems I've solved. All contributions to improved solutions are welcomed and appreciated.
 
-4. ### [DBA](https://github.com/merehansheikh/DBA) (Last Updated: 22-Nov-24)
+4. ### [DBA](https://github.com/merehansheikh/DBA) (Last Updated: 14-Dec-24)
 
    This repository contains material for the Database Administration and Management course for which I did a Teaching Assistantship during my 5th semester. My fellow TA was [Haris Ahmad](https://github.com/malikharisahmad).
