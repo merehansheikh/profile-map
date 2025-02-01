@@ -8,7 +8,7 @@
 
    This is a list of PDF versions of textbooks, solution manuals, and other useful books. All rights belong to the original authors, and you should buy the books to support them. I am sharing them here only for educational purposes.
 
-3. ### [Codeforces Solutions](https://github.com/merehansheikh/code-forces-solutions) (Last Update: 23-Jan-2025)
+3. ### [Codeforces Solutions](https://github.com/merehansheikh/code-forces-solutions) (Last Update: 31-Jan-2025)
 
    This repository contains the Python codes for codeforces problems I've solved. All contributions to improved solutions are welcomed and appreciated.
 
