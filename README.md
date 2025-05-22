@@ -1,7 +1,7 @@
 # Profile Map
 
 ## Hello, fellow! Below is a list of useful links on my GitHub profile, just a click away! 
-1. ### [Data Science 2022-26](https://github.com/merehansheikh/Data-Science-22) (Last Updated: 20-Mar-2025)
+1. ### [Data Science 2022-26](https://github.com/merehansheikh/Data-Science-22) (Last Updated: 22-May-2025)
 
    My undergraduate repository contains all my degree books, notes, assignments, and codes.
 2. ### [Useful Books](https://github.com/merehansheikh/Data-Science-22/blob/main/README.md) (Last Updated: 18-Jan-25)
